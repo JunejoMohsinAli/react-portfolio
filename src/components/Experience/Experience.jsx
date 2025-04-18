@@ -16,8 +16,8 @@ const skills = [
     "imageSrc": "skills/js.png"
   },
   {
-    "title": "MySQL",
-    "imageSrc": "skills/mysql.png"
+    "title": "TypeScript",
+    "imageSrc": "skills/ts.png"
   },
   {
     "title": "React",
@@ -36,12 +36,12 @@ const skills = [
     "imageSrc": "skills/tailwind.png"
   },
   {
-    "title": "GitHub",
-    "imageSrc": "skills/github.png"
+    "title": "Git",
+    "imageSrc": "skills/git.png"
   },
   {
-    "title": "Office 365",
-    "imageSrc": "skills/office.png"
+    "title": "GitHub",
+    "imageSrc": "skills/github.png"
   }
 ];
 
@@ -54,8 +54,7 @@ const history = [
     "endDate": "Present",
     "experiences": [
       "Developing responsive and user-friendly websites",
-      "Working with JavaScript, React.js, PHP, and WordPress",
-      "Using Bootstrap and Tailwind CSS for styling"
+      "Working with JavaScript, TypeScript, Tailwind CSS & React.js"
     ],
     "imageSrc": "history/zetsol.png"
   },
@@ -66,8 +65,7 @@ const history = [
     "endDate": "Present",
     "experiences": [
       "Resolving technical issues for customers and staff",
-      "Managing support tickets from Sehat Kahani platform",
-      "Maintaining systems and ensuring smooth performance"
+      "Managing support tickets from Sehat Kahani.com"
     ],
     "imageSrc": "history/zetsol.png"
   },
@@ -77,9 +75,8 @@ const history = [
     "startDate": "Jul, 2024",
     "endDate": "Aug, 2024",
     "experiences": [
-      "Analyzed data for project reports and visualizations",
-      "Prepared statistical summaries and charts",
-      "Used Excel and data tools to extract insights"
+      "Collected and verified departmental data of MUET",
+      "Carefully Entered data of HEC Scorecard 2023–24",
     ],
     "imageSrc": "history/oric.png"
   },
@@ -89,8 +86,8 @@ const history = [
     "startDate": "Apr, 2024",
     "endDate": "Jun, 2024",
     "experiences": [
-      "Assisted with alumni data management and outreach",
-      "Handled administrative documentation and reports",
+      "Compiled data for MUET HEC Scorecard 2023–24",
+      "Handled administrative documentation and office files",
       "Coordinated with departments for event planning"
     ],
     "imageSrc": "history/muet.png"

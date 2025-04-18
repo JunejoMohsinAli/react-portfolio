@@ -75,7 +75,9 @@
 }
 
 .historyItem img {
-  width: 50px;
+  width: 80px;
+  border-radius: 20%;
+  background-color: white;
 }
 
 .historyItemDetails {

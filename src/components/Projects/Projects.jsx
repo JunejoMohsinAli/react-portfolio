@@ -6,7 +6,7 @@ import { ProjectCard } from "./ProjectCard";
 const projects = [
   {
     "title": "TextFixer",
-    "imageSrc": "projects/project1.png",
+    "imageSrc": "projects/textfixer.png",
     "description": "This App lets you quickly convert case, clear, copy, and clean up text, offering a fast and user-friendly experience.",
     "skills": ["React.js", "Node.js", "Bootsrap"],
     "demo": "https://text-fixer-eight.vercel.app/",
@@ -14,11 +14,19 @@ const projects = [
   },
   {
     "title": "Producto",
-    "imageSrc": "projects/project2.png",
-    "description": "Landing page for Producto, a user-friendly sales app, featuring a clean design, popup modal form, and responsive layout.",
+    "imageSrc": "projects/producto.svg",
+    "description": "Landing page of a user-friendly sales app, Producto, featuring a popup modal form and a responsive layout.",
     "skills": ["React.js", "Custom CSS"],
     "demo": "https://producto-ashy.vercel.app/",
     "source": "https://github.com/JunejoMohsinAli/Producto"
+  },
+  {
+    "title": "Taska",
+    "imageSrc": "projects/taska.svg",
+    "description": "Login and signup pages of a task management app, Taska, with Zod form validation and a fully responsive layout.",
+    "skills": ["React.js", "Tailwind", "TypeScript"],
+    "demo": "https://taska-lovat.vercel.app/login",
+    "source": "https://github.com/JunejoMohsinAli/Taska"
   },
 ];
 

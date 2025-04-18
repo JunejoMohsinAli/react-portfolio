@@ -8,13 +8,14 @@
   box-shadow: 0 16px 14px 0 #04152d;
   padding: 18px 24px;
   max-width: 345px;
+  align-items: center;
 }
 
 .image {
   margin-bottom: 26px;
-  width: 300px;
-  height: 180px;
-  align-items: center;
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
 }
 
 .title {
