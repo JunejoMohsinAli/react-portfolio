@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./Experience.module.css";
 
-// Embedded skills data directly in the file
 const skills = [
   {
     "title": "HTML",
@@ -104,7 +103,6 @@ export const Experience = () => {
             return (
               <div key={id} className={styles.skill}>
                 <div className={styles.skillImageContainer}>
-                  {/* Directly reference image from assets/experience using file name */}
                   <img src={`/assets/experience/${skill.imageSrc.split('/').pop()}`} alt={skill.title} />
                 </div>
                 <p>{skill.title}</p>
@@ -116,7 +114,6 @@ export const Experience = () => {
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
-                {/* Directly reference image from assets/experience using file name */}
                 <img
                   src={`/assets/experience/${historyItem.imageSrc.split('/').pop()}`}
                   alt={`${historyItem.organisation} Logo`}
