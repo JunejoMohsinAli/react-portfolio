@@ -18,7 +18,7 @@ export const Hero = () => {
           </a>
           
           <a 
-            href="https://github.com/mohsinalijunejo" 
+            href="https://github.com/junejomohsinali" 
             className={styles.contactBtn}
           >
             <img src="/assets/contact/githubIcon.png" alt="GitHub" className={styles.icon} />

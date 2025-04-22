@@ -92,6 +92,7 @@
 .historyItemDetails p {
   font-size: 20px;
   font-weight: 300;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .historyItemDetails ul {
@@ -103,6 +104,10 @@
 }
 
 @media screen and (max-width: 830px) {
+  .container{
+    margin-top: 5px;
+  }
+  
   .content {
     flex-direction: column;
     align-items: center;

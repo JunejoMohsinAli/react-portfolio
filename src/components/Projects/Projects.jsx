@@ -25,7 +25,7 @@ const projects = [
     "imageSrc": "projects/taska.svg",
     "description": "Login and signup pages of a task management app, Taska, with Zod form validation and a fully responsive layout.",
     "skills": ["React.js", "Tailwind", "TypeScript"],
-    "demo": "https://taska-lovat.vercel.app/login",
+    "demo": "https://taska-lovat.vercel.app",
     "source": "https://github.com/JunejoMohsinAli/Taska"
   },
 ];
