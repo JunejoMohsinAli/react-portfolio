@@ -2,7 +2,6 @@ import React from "react";
 import styles from "./Projects.module.css";
 import { ProjectCard } from "./ProjectCard";
 
-// Embedded project data directly in the file
 const projects = [
   {
     "title": "TextFixer",
@@ -27,6 +26,14 @@ const projects = [
     "skills": ["React.js", "Tailwind", "TypeScript"],
     "demo": "https://taska-lovat.vercel.app",
     "source": "https://github.com/JunejoMohsinAli/Taska"
+  },
+  {
+    "title": "BC APPA",
+    "imageSrc": "projects/bc.png",
+    "description": "Working...",
+    "skills": ["React.js", "Tailwind", "TypeScript"],
+    "demo": "https://bc-appa.netlify.app/",
+    "source": "https://github.com/JunejoMohsinAli/bc-appa"
   },
 ];
 
