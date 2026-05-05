@@ -7,7 +7,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm <br/>  Mohsin Ali</h1>
         <p className={styles.description}>
-          I’m a Web Developer with expertise in JavaScript, PHP, React.js, WordPress, Bootstrap, and Tailwind CSS, and a passion for MERN stack development. Alongside building responsive, user-friendly web apps, I bring strong technical support experience to ensure seamless functionality and user satisfaction.
+          I’m a Software Quality Assurance (SQA) & Tech Support Engineer with a strong background in front-end development. I specialize in manual testing for POS and healthcare systems, resolving technical issues, and building high-quality, user-friendly web applications.
         </p>
         <div className={styles.contactButtons}>
           <a 

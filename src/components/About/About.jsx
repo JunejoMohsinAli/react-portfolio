@@ -15,6 +15,15 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src="/assets/about/cursorIcon.png" alt="Cursor icon" />
             <div className={styles.aboutItemText}>
+              <h3>Software Quality Assurance Engineer</h3>
+              <p>
+              Specialized in manual testing for POS and Telemedicine platforms, designing test cases, bug tracking, and ensuring stable software releases.
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
+            <img src="/assets/about/uiIcon.png" alt="UI icon" />
+            <div className={styles.aboutItemText}>
               <h3>Frontend Web Developer</h3>
               <p>
               Experienced in developing responsive, performance optimized, 

@@ -7,10 +7,6 @@ const skills = [
     "imageSrc": "skills/html.png"
   },
   {
-    "title": "CSS",
-    "imageSrc": "skills/css.png"
-  },
-  {
     "title": "JavaScript",
     "imageSrc": "skills/js.png"
   },
@@ -41,30 +37,65 @@ const skills = [
   {
     "title": "GitHub",
     "imageSrc": "skills/github.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "skills/postman.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/jira.png"
+  },
+  {
+    "title": "ClickUp",
+    "imageSrc": "skills/clickup.png"
   }
 ];
 
 // Embedded history data directly in the file
 const history = [
   {
-    "role": "Web Developer",
-    "organisation": "ZETSOL Technologies",
-    "startDate": "Apr, 2025",
+    "role": "Tech Support & SQA Engineer",
+    "organisation": "ZETSOL Technologies Pvt. Ltd.",
+    "startDate": "Jan, 2026",
     "endDate": "Present",
     "experiences": [
-      "Developing responsive and user-friendly websites",
-      "Working with JavaScript, TypeScript, Tailwind CSS & React.js"
+      "Execute manual testing for POS and Telemedicine platforms",
+      "Design and execute detailed test cases and bug tracking",
+      "Partner with development teams to verify fixes and ensure stable releases"
     ],
     "imageSrc": "history/zetsol.png"
   },
   {
     "role": "Tech Support Engineer",
-    "organisation": "ZETSOL Technologies",
+    "organisation": "ZETSOL Technologies Pvt. Ltd.",
     "startDate": "Aug, 2024",
-    "endDate": "Present",
+    "endDate": "Dec, 2025",
     "experiences": [
-      "Resolving technical issues for customers and staff",
-      "Managing support tickets from Sehat Kahani.com"
+      "Delivered Level 1 & 2 technical support to clients and internal teams",
+      "Resolved 100+ weekly support tickets, ensuring minimal downtime"
+    ],
+    "imageSrc": "history/zetsol.png"
+  },
+  {
+    "role": "SQA Intern",
+    "organisation": "ZETSOL Technologies Pvt. Ltd.",
+    "startDate": "Aug, 2025",
+    "endDate": "Oct, 2025",
+    "experiences": [
+      "Performed manual testing, created test cases, and documented bugs",
+      "Worked with developers to resolve issues and improve product quality"
+    ],
+    "imageSrc": "history/zetsol.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "ZETSOL Technologies Pvt. Ltd.",
+    "startDate": "Apr, 2025",
+    "endDate": "Jul, 2025",
+    "experiences": [
+      "Developed and maintained frontend components",
+      "Improved UI/UX for dashboards and applications"
     ],
     "imageSrc": "history/zetsol.png"
   },
@@ -74,8 +105,8 @@ const history = [
     "startDate": "Jul, 2024",
     "endDate": "Aug, 2024",
     "experiences": [
-      "Collected and verified departmental data of MUET",
-      "Carefully Entered data of HEC Scorecard 2023–24",
+      "Assisted in data collection and visualization using Excel and internal tools",
+      "Automated reports and dashboards for research insights"
     ],
     "imageSrc": "history/oric.png"
   },
@@ -85,9 +116,7 @@ const history = [
     "startDate": "Apr, 2024",
     "endDate": "Jun, 2024",
     "experiences": [
-      "Compiled data for MUET HEC Scorecard 2023–24",
-      "Handled administrative documentation and office files",
-      "Coordinated with departments for event planning"
+      "Handled documentation, correspondence, and administrative records"
     ],
     "imageSrc": "history/muet.png"
   }
