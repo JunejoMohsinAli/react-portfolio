@@ -55,72 +55,55 @@ const skills = [
 // Embedded history data directly in the file
 const history = [
   {
-    "role": "Tech Support & SQA Engineer",
-    "organisation": "ZETSOL Technologies Pvt. Ltd.",
-    "startDate": "Jan, 2026",
+    "role": "ICT Lab Assistant",
+    "organisation": "The City School, Liaquat Campus, Hyderabad",
+    "startDate": "Aug 2026",
     "endDate": "Present",
     "experiences": [
-      "Execute manual testing for POS and Telemedicine platforms",
-      "Design and execute detailed test cases and bug tracking",
-      "Partner with development teams to verify fixes and ensure stable releases"
+      "Support ICT Lab operations for the Junior & Prep Section, including maintaining hardware and software, ensuring system security from viruses, and overseeing lab cleanliness.",
+      "Assist students and staff with technical requirements and perform administrative tasks as assigned by the school head."
     ],
-    "imageSrc": "history/zetsol.png"
+    "imageSrc": "history/thecityschool.png"
   },
   {
-    "role": "Tech Support Engineer",
-    "organisation": "ZETSOL Technologies Pvt. Ltd.",
-    "startDate": "Aug, 2024",
-    "endDate": "Dec, 2025",
+    "role": "Tech Support & SQA Engineer",
+    "organisation": "ZETSOL Technologies Pvt. Ltd., Hyderabad",
+    "startDate": "Aug 2024",
+    "endDate": "July 2026",
     "experiences": [
-      "Delivered Level 1 & 2 technical support to clients and internal teams",
-      "Resolved 100+ weekly support tickets, ensuring minimal downtime"
-    ],
-    "imageSrc": "history/zetsol.png"
-  },
-  {
-    "role": "SQA Intern",
-    "organisation": "ZETSOL Technologies Pvt. Ltd.",
-    "startDate": "Aug, 2025",
-    "endDate": "Oct, 2025",
-    "experiences": [
-      "Performed manual testing, created test cases, and documented bugs",
-      "Worked with developers to resolve issues and improve product quality"
-    ],
-    "imageSrc": "history/zetsol.png"
-  },
-  {
-    "role": "Web Development Intern",
-    "organisation": "ZETSOL Technologies Pvt. Ltd.",
-    "startDate": "Apr, 2025",
-    "endDate": "Jul, 2025",
-    "experiences": [
-      "Developed and maintained frontend components",
-      "Improved UI/UX for dashboards and applications"
+      "Delivered Level 1 & 2 technical support to clients and internal teams.",
+      "Resolved 100+ support tickets weekly, ensuring minimal downtime.",
+      "Performed manual testing for POS and Telemedicine systems, including test case creation, execution, and reporting.",
+      "Collaborated with teams to track, verify, and resolve issues, ensuring quality software releases."
     ],
     "imageSrc": "history/zetsol.png"
   },
   {
     "role": "Data Analyst Intern",
     "organisation": "ORIC, MUET Jamshoro",
-    "startDate": "Jul, 2024",
-    "endDate": "Aug, 2024",
+    "startDate": "Jul 2024",
+    "endDate": "Aug 2024",
     "experiences": [
-      "Assisted in data collection and visualization using Excel and internal tools",
-      "Automated reports and dashboards for research insights"
+      "Handled documentation and correspondence, and managed event content and administrative records.",
+      "Assisted in data collection and visualization using Excel and internal tools.",
+      "Automated reports and dashboards for research insights."
     ],
     "imageSrc": "history/oric.png"
   },
   {
     "role": "Administrative Intern",
-    "organisation": "MUET Alumni Development Cell",
-    "startDate": "Apr, 2024",
-    "endDate": "Jun, 2024",
+    "organisation": "MUET Alumni Development Cell, Jamshoro",
+    "startDate": "Apr 2024",
+    "endDate": "Jun 2024",
     "experiences": [
-      "Handled documentation, correspondence, and administrative records"
+      "Handled documentation and correspondence, and managed event content and administrative records.",
+      "Assisted in data collection and visualization using Excel and internal tools.",
+      "Automated reports and dashboards for research insights."
     ],
     "imageSrc": "history/muet.png"
   }
 ];
+
 
 export const Experience = () => {
   return (

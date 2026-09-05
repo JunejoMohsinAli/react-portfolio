@@ -7,7 +7,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm <br/>  Mohsin Ali</h1>
         <p className={styles.description}>
-          I’m a Software Quality Assurance (SQA) & Tech Support Engineer with a strong background in front-end development. I specialize in manual testing for POS and healthcare systems, resolving technical issues, and building high-quality, user-friendly web applications.
+          ICT Lab Assistant, SQA & Technical Support Engineer with an MSc in Computer Science (3.25 CGPA) and over five years of IT experience. Currently working at The City School, Liaquat Campus, Hyderabad, supporting ICT lab operations while bringing extensive experience in software quality assurance for POS and healthcare systems, as well as Level 1 & Level 2 technical support.
         </p>
         <div className={styles.contactButtons}>
           <a 
@@ -25,10 +25,19 @@ export const Hero = () => {
           </a>
           
           <a 
-            href="mailto:your-email@example.com" 
+            href="mailto:mohsinali.junejo@outlook.com" 
             className={styles.contactBtn}
           >
             <img src="/assets/contact/emailIcon.png" alt="Email" className={styles.icon} />
+          </a>
+          
+          <a 
+            href="https://wa.me/923153463584?text=Hey%20Mohsin%20I%20just%20saw%20your%20portfolio%20website%20want%20to%20talk." 
+            className={styles.contactBtn}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/assets/contact/whatsappIcon.svg" alt="WhatsApp" className={styles.icon} />
           </a>
         </div>
       </div>

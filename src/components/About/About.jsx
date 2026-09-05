@@ -13,31 +13,29 @@ export const About = () => {
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="/assets/about/cursorIcon.png" alt="Cursor icon" />
+            <img src="/assets/about/cursorIcon.png" alt="Lab operations icon" />
             <div className={styles.aboutItemText}>
-              <h3>Software Quality Assurance Engineer</h3>
+              <h3>ICT Lab Operations</h3>
               <p>
-              Specialized in manual testing for POS and Telemedicine platforms, designing test cases, bug tracking, and ensuring stable software releases.
+                Overseeing ICT lab operations, maintaining hardware and software systems, ensuring virus security, and assisting students and staff with technical requirements.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="/assets/about/uiIcon.png" alt="UI icon" />
+            <img src="/assets/about/uiIcon.png" alt="QA icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Web Developer</h3>
+              <h3>Software Quality Assurance (SQA)</h3>
               <p>
-              Experienced in developing responsive, performance optimized, 
-              and user-centered web applications using modern technologies and best practices.
+                Experienced in manual testing for POS and Telemedicine platforms, test case creation, execution, bug tracking, and partnering with teams for stable software releases.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="/assets/about/serverIcon.png" alt="Server icon" />
+            <img src="/assets/about/serverIcon.png" alt="Tech support icon" />
             <div className={styles.aboutItemText}>
-              <h3>Tech Support Engineer</h3>
+              <h3>Level 1 & Level 2 Technical Support</h3>
               <p>
-              Skilled in diagnosing and resolving technical issues, 
-              providing effective user support, and maintaining system reliability and performance.
+                Strong track record resolving 100+ support tickets weekly with minimal downtime, diagnosing issues, and ensuring reliable, high-quality IT infrastructure performance.
               </p>
             </div>
           </li>
